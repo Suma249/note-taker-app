@@ -57,6 +57,11 @@ public Note(String title, String content, Date addedDate) {
 	this.content = content;
 	this.addedDate = addedDate;
 }
+
+public Note() {
+	super();
+	// TODO Auto-generated constructor stub
+}
    
    
 }
